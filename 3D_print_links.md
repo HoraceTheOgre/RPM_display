@@ -7,3 +7,7 @@ https://www.cgtrader.com/3d-print-models/hobby-diy/robotics/arduino-uno-lcd-16x2
 https://www.crealitycloud.com/model-detail/66fcae53c3bc2dd50de25b15
 
 https://cults3d.com/en/3d-model/gadget/case-para-arduino-16x3-lcd
+
+https://www.thingiverse.com/thing:3205436
+
+https://cults3d.com/en/3d-model/gadget/arduino-uno-with-lcd-support
